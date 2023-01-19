@@ -16,7 +16,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: upxloopyt.js.org
-  baseUrl: /alwordd29/upx
+  baseUrl: /upx
   logoUrl: https://raw.githubusercontent.com/alwordd29/upx/master/static/img/icon.svg
   name: UPX
   introTitle: "**UPX** is the checktime monitor and status page, powered entirely by GitHub."
